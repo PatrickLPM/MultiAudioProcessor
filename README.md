@@ -1,3 +1,6 @@
 # MultiAudioProcessor
 批量提取视频中的音频并识别为带有时间戳的文字
 基于sensevoice，支持中英粤日韩五种语言
+audio_extract.py用于批量提取mp4文件中的音频
+batch_asr.py用于批量asr音频中的文字
+remove_emojis.py用于移除sensevoice中生成的表情符号
