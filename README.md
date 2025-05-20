@@ -1,2 +1,3 @@
 # MultiAudioProcessor
 批量提取视频中的音频并识别为带有时间戳的文字
+基于sensevoice，支持中英粤日韩五种语言
